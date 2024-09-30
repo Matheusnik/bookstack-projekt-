@@ -17,88 +17,38 @@
 
 Uma plataforma para armazenar e organizar informações e documentação, seja informações de Jogos, domucentos de empresas e muitas outras coias. Detalhes do BookStack podem ser encontrados no site oficial em: https://www.bookstackapp.com/.
 
-* [Installation Instructions](https://www.bookstackapp.com/docs/admin/installation)
-* [Documentation](https://www.bookstackapp.com/docs)
-* [Demo Instance](https://demo.bookstackapp.com)
+* [Instruções de Instalaçõa](https://www.bookstackapp.com/docs/admin/installation)
+* [Documentação](https://www.bookstackapp.com/docs)
+* [Instacia de demonstração](https://demo.bookstackapp.com)
     * [Admin Login](https://demo.bookstackapp.com/login?email=admin@example.com&password=password)
-* [Screenshots](https://www.bookstackapp.com/#screenshots) 
+* [Capturas de tela](https://www.bookstackapp.com/#screenshots) 
 * [BookStack Blog](https://www.bookstackapp.com/blog)
 * [Issue List](https://github.com/BookStackApp/BookStack/issues)
 * [Discord Chat](https://discord.gg/ztkBqR2)
-* [Support Options](https://www.bookstackapp.com/support/)
+* [Opções de Suporte](https://www.bookstackapp.com/support/)
 
-## 📚 Project Definition
+  Obs.: A documentação base está em ingles.
 
-BookStack is an opinionated documentation platform that provides a pleasant and simple out-of-the-box experience. New users to an instance should find the experience intuitive and only basic word-processing skills should be required to get involved in creating content on BookStack. The platform should provide advanced power features to those that desire it but they should not interfere with the core simple user experience.
+## 📚 Definição de Projeto
 
-BookStack is not designed as an extensible platform to be used for purposes that differ to the statement above.
+BookStack é uma plataforma de documentação opinativa que oferece uma experiência agradável, simples e pronta para uso. Os novos usuários de uma instância devem achar a experiência intuitiva e apenas habilidades básicas de processamento de texto devem ser necessárias para se envolver na criação de conteúdo no BookStack.
+A plataforma deve fornecer recursos avançados de energia para aqueles que os desejam, mas não devem interferir na experiência simples do usuário.
 
-In regard to development philosophy, BookStack has a relaxed, open & positive approach. At the end of the day this is free software developed and maintained by people donating their own free time.
+BookStack não foi projetado como uma plataforma extensível para ser usada para propósitos diferentes da afirmação acima.
 
-You can read more about the project and its origins in [our FAQ here](https://www.bookstackapp.com/about/project-faq/).
+No que diz respeito à filosofia de desenvolvimento, BookStack tem uma abordagem descontraída, aberta e positiva. No final das contas, este é um software livre desenvolvido e mantido por pessoas que doam seu próprio tempo livre.
 
-## 🌟 Project Sponsors
+Você pode ler mais sobre o projeto e suas origens em [our FAQ here](https://www.bookstackapp.com/about/project-faq/).
 
-Shown below are our bronze, silver and gold project sponsors.
-Big thanks to these companies for supporting the project.
-*Note: The listed services are not tested, vetted nor supported by the official BookStack project in any manner.*
 
-[Project donation details](https://www.bookstackapp.com/donate/) - [GitHub Sponsors Page](https://github.com/sponsors/ssddanbrown) - [Ko-fi Page](https://ko-fi.com/ssddanbrown)
+## 🛠️ Desenvolvimento e Teste
 
-#### Gold Sponsor
+Consulte os [documentos de desenvolvimento](dev/docs/development.md) para obter detalhes completos sobre o trabalho no código-fonte do BookStack.
 
-<table><tbody><tr>
-<td align="center"><a href="https://www.federated.computer/bookstack/" target="_blank">
-    <img width="480" src="https://www.bookstackapp.com/images/sponsors/federated-computer.png" alt="Federated.computer">
-</a></td>
-</tr></tbody></table>
+Se você deseja apenas personalizar ou estender sua própria instância do BookStack, dê uma olhada em [página de documentação do Hacking BookStack](https://www.bookstackapp.com/docs/admin/hacking-
+bookstack/) para obter detalhes sobre várias opções para conseguir isso sem alterar o código-fonte do BookStack.
 
-#### Bronze Sponsors
-
-<table><tbody><tr>
-<td align="center"><a href="https://www.diagrams.net/" target="_blank">
-    <img width="240" src="https://www.bookstackapp.com/images/sponsors/diagramsnet.png" alt="Diagrams.net">
-</a></td>
-<td align="center"><a href="https://cloudabove.com/hosting" target="_blank">
-    <img width="200" src="https://www.bookstackapp.com/images/sponsors/cloudabove.png" alt="Cloudabove">
-</a></td>
-</tr><tr>
-<td align="center"><a href="https://www.practicali.be" target="_blank">
-    <img width="240" src="https://www.bookstackapp.com/images/sponsors/practicali.png" alt="Practicali">
-</a></td>
-<td align="center"><a href="https://www.stellarhosted.com/bookstack/" target="_blank">
-    <img width="240" src="https://www.bookstackapp.com/images/sponsors/stellarhosted.png" alt="Stellar Hosted">
-</a></td>
-</tr>
-<tr>
-<td align="center" style="text-align: center"><a href="https://nws.netways.de/apps/bookstack/" target="_blank">
-    <img width="240" src="https://www.bookstackapp.com/images/sponsors/netways.png" alt="NETWAYS Web Services">
-</a></td>
-<td align="center" style="text-align: center"><a href="https://www.schroeck-consulting.de/" target="_blank">
-    <img width="200" src="https://www.bookstackapp.com/images/sponsors/schroeck-consulting.png" alt="Schroeck IT Consulting">
-</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://practinet.be/" target="_blank">
-    <img width="240" src="https://www.bookstackapp.com/images/sponsors/practinet.png" alt="Practinet">
-</a></td>
-<td align="center"><a href="https://transporttalent.com" target="_blank">
-    <img width="240" src="https://www.bookstackapp.com/images/sponsors/transport-talent.png" alt="Transport Talent">
-</a></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><a href="https://route4me.com/" target="_blank">
-    <img width="240" src="https://www.bookstackapp.com/images/sponsors/route4me.png" alt="Route4Me - Route Optimizer and Route Planner Software">
-</a></td>
-</tr></tbody></table>
-
-## 🛠️ Development & Testing
-
-Please see our [development docs](dev/docs/development.md) for full details regarding work on the BookStack source code.
-
-If you're just looking to customize or extend your own BookStack instance, take a look at our [Hacking BookStack documentation page](https://www.bookstackapp.com/docs/admin/hacking-bookstack/) for details on various options to achieve this without altering the BookStack source code.
-
-Details about BookStack's versioning scheme and the general release process [can be found here](dev/docs/release-process.md).
+Detalhes sobre o esquema de versionamento do BookStack e o processo geral de lançamento [podem ser encontrados aqui](dev/docs/release-process.md).
 
 ## 🌎 Translations
 
